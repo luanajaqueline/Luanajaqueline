@@ -4,7 +4,8 @@
 **'Developer front-ed'**
 <br>
 Meu nome é Luana Jaqueline De Souza Lima, tenho 30 anos, sou natural de  Osasco-SP.
-Atualmente, estou cursando o 3º semestre da faculdade,  na área de ciências da computação, pretendo ter futuras oportunidades de trabalho, nas quais possa desempenhar o papel de programador júnior, colocando assim meus conhecimentos em prática, adquirindo novas experiências e desafios, que podem me impulsionar e me aprofundar cada vez mais na área de desenvolvimento de sistemas e programação, Tenho capacidade de aprender na prática, e discernimento para enfrentar desafios e obstáculos, pretendo participar dessa jornada este ano,  para que eu possa aperfeiçoar experiências e conhecimentos, e assim contribuir para o  meu crescimento profissional.
+</br>
+Atualmente estou cursando o 3º semestre da faculdade,  na área de ciências da computação, pretendo ter futuras oportunidades de trabalho, nas quais possa desempenhar o papel de programador júnior, colocando assim meus conhecimentos em prática, adquirindo novas experiências e desafios, que podem me impulsionar e me aprofundar cada vez mais na área de desenvolvimento de sistemas e programação, Tenho capacidade de aprender na prática, e discernimento para enfrentar desafios e obstáculos, pretendo participar dessa jornada este ano,  para que eu possa aperfeiçoar experiências e conhecimentos, e assim contribuir para o  meu crescimento profissional.
 
 <p align="left">  
    
